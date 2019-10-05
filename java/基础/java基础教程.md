@@ -22,3 +22,16 @@
 ## 1.3. 测试
 
 # 2. Helloworld
+
+## 基本代码
+```
+package river.cn.Main
+public class A{
+public static void main(String[] a){
+	System.out.println("hellowold");
+}
+}
+```
+
+## 测试  
+![](./img/testOut.jpg)
